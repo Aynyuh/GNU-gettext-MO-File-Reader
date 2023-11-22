@@ -31,4 +31,4 @@ begin
   end;
 ```
 
-Sample PO file can be taken [here](https://localizely.com/po-file/). Use `msgfmt messages.po` to create binary mo file.
+Sample PO file can be taken [here](https://localizely.com/po-file/). Use `msgfmt de.po` to create binary mo file.
